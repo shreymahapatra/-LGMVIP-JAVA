@@ -1,7 +1,4 @@
-# VIP-Java
-Virtual Internship Program Tasks      " Overview "
 
-----------------------
 
 BEGINNER LEVEL TASK-01
 
